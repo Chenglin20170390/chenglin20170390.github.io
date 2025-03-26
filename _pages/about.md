@@ -67,7 +67,7 @@ redirect_from:
 
   For example: Genome assembly, annotation, variation calling (SNPs, SVs), Differential gene expression, Gene ontology (GO),   Synteny analysis, phylogenetic tree, population structure, Principal component analysis (PCA), Bulked Segregant Analysis     (BSA), ChIP-seq, 16S, 18S, ITS.
 
-- __Language:	English__: IELTS 6.5 (2019), Korean, Japanese and French (Beginner).
+- __Language:	English__: IELTS 6.5 (2019), Beginner (Korean, Japanese and French).
 - __Personal__:	Strong self-learning ability, Independent, Diligent, Love life/nature🎾⛰🌊🏂🏻🪂...
 
 
