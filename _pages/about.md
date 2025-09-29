@@ -18,10 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-  Currently (2025-10), Postdoc focused on genome design of perfect potato (Bioinformatics) at the Agricultural Genomics Institute at Shenzhen.
+  Currently (2025-10), Postdoc focused on genome design of perfect potato (Bioinformatics) supervised by [Prof. Sanwen Huang](https://scholar.google.com.hk/citations?user=Xezg1IUAAAAJ&hl=en) at the Agricultural Genomics Institute at Shenzhen.
+  <br>
 
-
-  A joint Ph.D. student <a href='https://scholar.google.com/citations?user=0YEGx_4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> focused on Bioinformatics at the Agricultural Genomics Institute at Shenzhen (AGIS, China🇨🇳) and the University of Liège (ULiège, Belgium🇧🇪), primarily supervised by [Prof. Sanwen Huang](https://scholar.google.com.hk/citations?user=Xezg1IUAAAAJ&hl=en). Before joining AGIS, I received my M.S. in the Department of Plant Science at Kongju National University (KNU, South Korea 🇰🇷), supervised by [Prof. Yong-jin Park](https://scholar.google.com/citations?user=_lZNEvsAAAAJ&hl=en). 
+  Previously, a joint Ph.D. student <a href='https://scholar.google.com/citations?user=0YEGx_4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> focused on Bioinformatics at the Agricultural Genomics Institute at Shenzhen (AGIS, China🇨🇳) and the University of Liège (ULiège, Belgium🇧🇪), primarily supervised by [Prof. Sanwen Huang](https://scholar.google.com.hk/citations?user=Xezg1IUAAAAJ&hl=en). Before joining AGIS, I received my M.S. in the Department of Plant Science at Kongju National University (KNU, South Korea 🇰🇷), supervised by [Prof. Yong-jin Park](https://scholar.google.com/citations?user=_lZNEvsAAAAJ&hl=en). 
   <br>
   <br>
   My research focuses on 🥔potato breeding🥔 using bioinformatics and AI. With the rapid growth of genomic data, I aim to uncover hidden insights by integrating multi-omics and AI to decode the "language of life" through genomics and explore evolutionary trajectories in the tree of life.
@@ -34,7 +34,7 @@ redirect_from:
 
 - [‘Genome analyses and breeding of polyploid crops](https://www.nature.com/articles/s41477-025-02088-5)
   - <u>Lin Cheng*</u>, Zhigui Bao, Qianqian Kong, Ludivine Lassois, Nils Stein, Sanwen Huang & Qian Zhou†
-  - ___Nature research briefing___ (2025)
+  - ___Nature plants___ (2025)
 
 - [‘Perfect potato’ designed thanks to unearthed genetic diversity](https://www.nature.com/articles/d41586-025-00187-z)
   - <u>Lin Cheng*</u> & Sanwen Huang†
