@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lin Cheng"
-description              : "PhD Student, AGIS and ULiège "
+description              : "PostDoc AGIS"
 repository               : "Chenglin20170390/chenglin20170390.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Lin Cheng"
   avatar           : "images/web-app-manifest-512x512.png"
   bio              : ""
-  location         : "Liège, Belgium"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0YEGx_4AAAAJ&hl=en"
