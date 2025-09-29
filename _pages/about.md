@@ -18,7 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-  I am a joint Ph.D. student <a href='https://scholar.google.com/citations?user=0YEGx_4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> focused on Bioinformatics at the Agricultural Genomics Institute at Shenzhen (AGIS, China🇨🇳) and the University of Liège (ULiège, Belgium🇧🇪), primarily supervised by [Prof. Sanwen Huang](https://scholar.google.com.hk/citations?user=Xezg1IUAAAAJ&hl=en). Before joining AGIS, I received my M.S. in the Department of Plant Science at Kongju National University (KNU, South Korea 🇰🇷), supervised by [Prof. Yong-jin Park](https://scholar.google.com/citations?user=_lZNEvsAAAAJ&hl=en). 
+  Currently (2025-10), Postdoc focused on genome design of perfect potato (Bioinformatics) at the Agricultural Genomics Institute at Shenzhen.
+
+
+  A joint Ph.D. student <a href='https://scholar.google.com/citations?user=0YEGx_4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> focused on Bioinformatics at the Agricultural Genomics Institute at Shenzhen (AGIS, China🇨🇳) and the University of Liège (ULiège, Belgium🇧🇪), primarily supervised by [Prof. Sanwen Huang](https://scholar.google.com.hk/citations?user=Xezg1IUAAAAJ&hl=en). Before joining AGIS, I received my M.S. in the Department of Plant Science at Kongju National University (KNU, South Korea 🇰🇷), supervised by [Prof. Yong-jin Park](https://scholar.google.com/citations?user=_lZNEvsAAAAJ&hl=en). 
   <br>
   <br>
   My research focuses on 🥔potato breeding🥔 using bioinformatics and AI. With the rapid growth of genomic data, I aim to uncover hidden insights by integrating multi-omics and AI to decode the "language of life" through genomics and explore evolutionary trajectories in the tree of life.
@@ -28,6 +31,10 @@ redirect_from:
 - [Leveraging a phased pangenome for haplotype design of hybrid potato](https://www.nature.com/articles/s41586-024-08476-9)
   - <u>Lin Cheng*</u>, Nan Wang, Zhigui Bao, Qian Zhou, Andrea Guarracino, Yuting Yang, Pei Wang, Zhiyang Zhang, Dié Tang, Pingxian Zhang, Yaoyao Wu, Yao Zhou, Yi Zheng, Yong Hu, Qun Lian, Zhaoxu Ma, Ludivine Lassois, Chunzhi Zhang, William J. Lucas, Erik Garrison, Nils Stein, Thomas Städler, Yongfeng Zhou & Sanwen Huang†
   - ___Nature___ (2025) \|[Code](https://github.com/Chenglin20170390/Haplotype-diversity)
+
+- [‘Genome analyses and breeding of polyploid crops](https://www.nature.com/articles/s41477-025-02088-5)
+  - <u>Lin Cheng*</u>, Zhigui Bao, Qianqian Kong, Ludivine Lassois, Nils Stein, Sanwen Huang & Qian Zhou†
+  - ___Nature research briefing___ (2025)
 
 - [‘Perfect potato’ designed thanks to unearthed genetic diversity](https://www.nature.com/articles/d41586-025-00187-z)
   - <u>Lin Cheng*</u> & Sanwen Huang†
@@ -55,6 +62,9 @@ redirect_from:
 
   
 # Recent News
+- [*2025.09*] PostDoc at AGIS. 
+- [*2025.08*] _Nature Plants_ article accepted as a first author🎉. 
+- [*2025.08*]  Ph.D defense Finished. 
 - [*2025.01*] _Nature_ article accepted as a first author🎉. 
 - [*2024.07*] Arrivied in Belgium, continuing research.
 - [*2022.06*] Two articles are acceepted by _Nature_.
